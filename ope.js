@@ -1,0 +1,1 @@
+getElementsByTagName("h1").length="20m"
